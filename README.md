@@ -1,4 +1,4 @@
 # My-learning-of-Github
 My first Git REPO
 <br>
-Author - Jayesh (Student)
+Author - Jayesh Dhingra
